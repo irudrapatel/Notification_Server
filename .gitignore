@@ -1,0 +1,4 @@
+node_modules/
+npm-debug.log
+events_history.json
+.DS_Store
